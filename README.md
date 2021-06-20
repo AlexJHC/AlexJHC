@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello 👋, I'm Alex</h1>
-<h3 align="center">From 2021, I began to study website layout :blush: then became interested in front-end development :computer:, and at the moment I continue my studding with great pleasure.:sunny:</h3><img align="right" src="https://user-images.githubusercontent.com/52352285/96442452-c64f2700-1228-11eb-8c92-35a64d4cef32.gif" alt="react" width="400" height="300"/>
+<h3 align="center">From 2021, I began to study website layout :blush: then became interested in front-end development :computer:, and at the moment I continue my studding with great pleasure.:sunny:</h3><img align="right" src="https://hsto.org/getpro/habr/post_images/261/7e0/cd5/2617e0cd55c0d25bc020621f4480917c.gif" alt="react" width="400" height="300"/>
 
 - :mortar_board: I’m currently learning **React , JS , Front-end**
 
