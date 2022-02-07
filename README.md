@@ -2,9 +2,7 @@
 
 
 <h1 align="center">Hello 👋, I'm Alex</h1>
-<h3 align="center">xperienced in creating SPA with React, Redux, REST, ES6+, Typescript, HTML, CSS. I'm always looking forward to improve my expertise. Team player who can work well in a collaborative environment and write clean, efficient, scalable, and testable code.:computer:</h3><img align="right" src="https://hsto.org/getpro/habr/post_images/261/7e0/cd5/2617e0cd55c0d25bc020621f4480917c.gif" alt="react" width="400" height="300"/>
-
-- :mortar_board: I’m currently learning **React , JS , Front-end**
+<h3 align="center">Experienced in creating SPA with React, Redux, REST, ES6+, Typescript, HTML, CSS. I'm always looking forward to improve my expertise. Team player who can work well in a collaborative environment and write clean, efficient, scalable, and testable code.:computer:</h3><img align="right" src="https://hsto.org/getpro/habr/post_images/261/7e0/cd5/2617e0cd55c0d25bc020621f4480917c.gif" alt="react" width="400" height="300"/>
 
 
 <h3 align="left">Connect with me:</h3>
